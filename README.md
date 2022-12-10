@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-This website was created as a study guide. It contains notes for CSS, JavaScript ,Git, and HTML.
+This website was created as a study guide. It was made to contain notes for CSS, JavaScript ,Git, and HTML to study.
 
 
 ## Installation
